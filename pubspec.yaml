@@ -1,7 +1,7 @@
 name: spectacular_barcode
 description: "A flutter plugin to check barcode and qrcode magnificantly"
 version: 0.0.2
-homepage: https://github.com/zequetech/spectacular_barcode
+homepage: https://github.com/Rashmi470416/spectacular_barcode
 
 environment:
   sdk: ^3.11.5
