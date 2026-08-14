@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "spectacular_barcode",
+      "path": "."
+    },
+    {
+      "name": "example",
+      "path": "example"
+    }
+  ],
+  "settings": {
+    "dart.analysisExcludedFolders": [],
+    "dart.showTodos": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "dart.flutterSdkPath": null,
+  "dart.lineLength": 80,
+  "files.exclude": {
+    "**/.dart_tool": false
+  }
+}
